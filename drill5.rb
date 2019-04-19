@@ -5,7 +5,7 @@ def array_count9(nums)
       count = count + 1
     end     
   end
-  puts "ハッシュの中に9は#{count}個です"
+  puts "配列の中に9は#{count}個です"
 end
   nums=[1,9,3,9]
 
