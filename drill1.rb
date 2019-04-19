@@ -1,3 +1,9 @@
+#休日か休日でないかで返ってくるメッセージを変更するプログラムを作成しましょう。
+#平日でないまたは休日の場合は「良い休日を！」と返信し、
+#休日の場合は「今日も一日がんばりましょう！」と条件分岐させましょう。
+
+
+
 def sleep_in(weekday, vacation)
   if (weekday != "Yes") || (vacation == "Yes" )
     puts "良い休日を！"
@@ -13,4 +19,3 @@ vacation = gets.chomp
 
 sleep_in(weekday,vacation)
 
-#休日か休日でないか
