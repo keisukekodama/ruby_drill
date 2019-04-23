@@ -13,4 +13,4 @@
 # caught_speeding(65, False) → 1
 # caught_speeding(65, True) → 0
 
-# 模範解答
+#模範解答
