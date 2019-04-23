@@ -3,7 +3,7 @@
 #休日の場合は「今日も一日がんばりましょう！」と条件分岐させましょう。
 
 
-# 模範解答
+#模範解答
 def sleep_in(weekday, vacation)
   if (weekday != "Yes") || (vacation == "Yes" )
     puts "良い休日を！"
