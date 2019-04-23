@@ -7,4 +7,4 @@
 # xyz_there('abc.xyz') → False
 # xyz_there('xyz.abc') → True
 
-# 模範解答
+#模範解答
