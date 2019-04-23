@@ -6,4 +6,4 @@
 # near_ten（17）→False 
 # near_ten（19）→True
 
-# 模範解答
+#模範解答
