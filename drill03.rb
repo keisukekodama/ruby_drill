@@ -7,4 +7,4 @@
 # missing_char('kitten', 4) → 'kittn'
 
 
-# 模範解答
+#模範解答
