@@ -7,4 +7,4 @@
 # count_hi('ABChi hi') → 2
 # count_hi('hihi') → 2
 
-# 模範解答
+#模範解答
