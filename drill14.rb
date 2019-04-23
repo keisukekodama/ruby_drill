@@ -7,4 +7,4 @@
 # cat_dog('catcat') → False
 # cat_dog('1cat1cadodog') → True
 
-# 模範解答
+#模範解答
