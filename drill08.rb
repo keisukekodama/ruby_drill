@@ -6,4 +6,4 @@
 # extra_end('ab') → 'ababab'
 # extra_end('Hi') → 'HiHiHi'
 
-# 模範解答
+#模範解答
