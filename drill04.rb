@@ -8,4 +8,4 @@
 # parrot_trouble(True, 7) → False
 # parrot_trouble(False, 6) → False
 
-# 模範解答
+#模範解答
