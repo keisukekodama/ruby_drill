@@ -8,4 +8,4 @@
 # count_code('codexxcode') → 2
 # count_code('cozexxcope') → 2
 
-# 模範解答
+#模範解答
