@@ -9,4 +9,4 @@
 # end_other('AbC', 'HiaBc') → True
 # end_other('abc', 'abXabc') → True
 
-# 模範解答
+#模範解答
