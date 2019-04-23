@@ -6,4 +6,4 @@
 # police_trouble(False, False) → True
 # police_trouble(True, False) → False
 
-# 模範解答
+#模範解答
