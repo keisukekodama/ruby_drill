@@ -8,4 +8,4 @@
 # close_far(1, 2, 3) → False
 # close_far(4, 1, 3) → True
 
-# 模範解答
+#模範解答
