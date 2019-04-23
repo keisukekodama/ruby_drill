@@ -6,7 +6,7 @@
 # left2('java') → 'vaja'
 # left2('Hi') → 'Hi'
 
-# 模範解答
+#模範解答
 
 def sleep_in(word)
   
