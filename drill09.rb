@@ -6,4 +6,4 @@
 # first_two('abcdefg') → 'ab'
 # first_two('ab') → 'ab'
 
-# 模範解答
+#模範解答
